@@ -21,6 +21,9 @@ Atualmente estudando **Linux, redes, DevOps e segurança web**, buscando constru
   <a href="https://github.com/gabrielvicentm">
     <img src="https://img.shields.io/badge/GitHub-gabrielvicentm-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/gabriel-henrique-vicente-da-silva-89902a3b7">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
