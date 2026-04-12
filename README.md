@@ -31,10 +31,9 @@ Atualmente estudando **Linux, redes, DevOps e segurança web**, buscando constru
 # 🛠️ Tecnologias
 
 ## Backend
-
+![Node.js](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
@@ -43,7 +42,6 @@ Atualmente estudando **Linux, redes, DevOps e segurança web**, buscando constru
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
-![Electron.js](https://img.shields.io/badge/electron.js-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
 ---
 
@@ -81,8 +79,10 @@ Ferramentas
 ---
 
 # 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielvicentm&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvicentm&layout=compact&theme=tokyonight" />
-</p>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielvicentm&show_icons=true&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielvicentm&layout=compact&theme=github_dark" />
+  <img height="170" src="https://streak-stats.demolab.com?user=gabrielvicentm&theme=github_dark" /> 
+  </p>
