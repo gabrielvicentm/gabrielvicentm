@@ -83,6 +83,6 @@ Ferramentas
 
 <p align="left">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielvicentm&show_icons=true&theme=github_dark" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielvicentm&layout=compact&theme=github_dark" />
+ <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielvicentm&layout=compact&theme=github_dark&hide=typescript,css" />
   <img height="170" src="https://streak-stats.demolab.com?user=gabrielvicentm&theme=github_dark" /> 
   </p>
