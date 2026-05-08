@@ -72,9 +72,12 @@ Backend de um sistema ERP para transportadora, desenvolvido em Go com autentica√
 
 ## Estat√≠sticas
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=gabrielvicentm&theme=hacker&hide_border=true&background=000000"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielvicentm&layout=compact&bg_color=000000&title_color=00ff41&text_color=00ff41&hide_border=true&hide=html,css,typescript"/>
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=gabrielvicentm&theme=hacker&hide_border=true&background=000000"/>
+
+<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielvicentm&layout=compact&bg_color=000000&title_color=00ff41&text_color=00ff41&hide_border=true&hide=html,css,typescript"/>
+
 </div>
+
 
 ---
 
