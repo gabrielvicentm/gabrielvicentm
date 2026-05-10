@@ -22,7 +22,9 @@
 ## Stack <img src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgyMDU0MTgsIm5iZiI6MTc3ODIwNTExOCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTUtZmE4M2VlYjktZjRlMi00ZDg1LTkzZjAtNjg4YWYxMWJhYmY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA4VDAxNTE1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk3Y2FmZDViODc5MWFjNWI4YTY1OTQ5MjY3N2ZjOTAzNjNjMTI3NmJjMjljMzA1Y2E5MmVjZjg2YmFhNzM3MDgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.I547ofHGxwI4zYkkBxLu4txq9upT9UuTv5w34NqdYaA" width="35">
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=go,nodejs,express,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=go,nodejs,express" />
+<img width="48" src="https://cdn.simpleicons.org/fastify/ffffff" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
 <!-- estou estudando ainda, vou desmarcar quando eu tiver feito um projeto sólido <img src="https://skillicons.dev/icons?i=python,fastapi" /> !-->
 <br>
 
