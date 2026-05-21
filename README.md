@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá! 👋 Eu sou Gabriel Vicente
+# Olá! 👋 Eu sou o Gabriel Vicente
 
 ---
 
